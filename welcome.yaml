@@ -1,0 +1,7 @@
+name: Myyamlproject
+version: 1.0
+enviroment:
+  -development
+  -production
+
+
